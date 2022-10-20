@@ -1,0 +1,15 @@
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.exe
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.deps.json
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.runtimeconfig.json
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.dll
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.pdb
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.AssemblyReference.cache
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfo.cs
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.dll
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\refint\DoubleLinkedList.dll
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.pdb
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.genruntimeconfig.cache
+C:\Users\laric\source\repos\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\ref\DoubleLinkedList.dll
